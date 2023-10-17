@@ -26,6 +26,7 @@ export = {
       },
     ],
     '@graphql-eslint/no-one-place-fragments': 'error',
+    '@graphql-eslint/no-unused-operations': 'error',
     '@graphql-eslint/require-import-fragment': 'error',
   },
 };
